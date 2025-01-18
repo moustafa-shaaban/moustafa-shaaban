@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **Django, Vue, Nuxt JS, REST APIs and GraphQL**
 
-- You can access my website by [clicking here](https://moustafashaaban.github.io/)
+- You can access my website by [clicking here](https://moustafa-shaaban.github.io/)
 
-- 👨‍💻 All of my projects are available at [my github page.](https://github.com/MoustafaShaaban)
+- 👨‍💻 All of my projects are available at [my github page.](https://github.com/Moustafa-Shaaban)
 
 - 💬 Ask me about **Django, Vue, REST APIs and GraphQL**
 
 - 📫 How to reach me **Moustafa-Shaaban@outlook.com**
 
-- 📄 Know about my experiences [https://moustafashaaban.github.io/resume/](https://moustafashaaban.github.io/resume.html)
+- 📄 Know about my experiences [https://moustafashaaban.github.io/resume/](https://moustafa-shaaban.github.io/resume.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
