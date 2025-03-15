@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moustafashaaban" alt="moustafashaaban" /></a> </p>
 
-- 🌱 I’m currently learning **Django, Vue, Nuxt JS, REST APIs and GraphQL**
+- 🌱 I’m currently learning **Django, Vue, Nuxt JS, React, REST APIs and GraphQL**
 
 - You can access my website by [clicking here](https://moustafa-shaaban.github.io/)
 
